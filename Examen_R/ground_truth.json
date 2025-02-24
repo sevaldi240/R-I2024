@@ -1,0 +1,359 @@
+{
+    "computer graphics": [
+        3882,
+        13865,
+        15058,
+        11361,
+        13554
+    ],
+    "quantum physics": [
+        1971,
+        8459,
+        5929,
+        10827,
+        18262
+    ],
+    "machine learning": [
+        3548,
+        14358,
+        16412,
+        12685,
+        5646
+    ],
+    "basketball teams": [
+        7252,
+        13008,
+        17116,
+        12128,
+        864
+    ],
+    "space exploration": [
+        17185,
+        25,
+        11031,
+        14625,
+        11514
+    ],
+    "political debates": [
+        14431,
+        7342,
+        5790,
+        968,
+        18642
+    ],
+    "climate change": [
+        12918,
+        11135,
+        13829,
+        6005,
+        11130
+    ],
+    "artificial intelligence": [
+        7042,
+        7293,
+        13066,
+        12875,
+        10429
+    ],
+    "cryptocurrency mining": [
+        14249,
+        4059,
+        18294,
+        16448,
+        2360
+    ],
+    "medical advancements": [
+        8389,
+        15098,
+        18694,
+        11519,
+        7676
+    ],
+    "history of World War II": [
+        171,
+        11548,
+        7461,
+        8835,
+        1093
+    ],
+    "cybersecurity threats": [
+        13636,
+        17394,
+        11851,
+        6994,
+        12526
+    ],
+    "renewable energy sources": [
+        7614,
+        16406,
+        5585,
+        4634,
+        849
+    ],
+    "economic crisis": [
+        3467,
+        5946,
+        14695,
+        17335,
+        3671
+    ],
+    "data science": [
+        16838,
+        6567,
+        16183,
+        7054,
+        3043
+    ],
+    "evolution of smartphones": [
+        17446,
+        5379,
+        16546,
+        1693,
+        8528
+    ],
+    "ancient civilizations": [
+        18745,
+        4771,
+        16891,
+        3797,
+        14672
+    ],
+    "genetic engineering": [
+        7420,
+        16638,
+        11663,
+        11795,
+        18071
+    ],
+    "neural networks": [
+        11584,
+        16713,
+        5774,
+        4831,
+        15614
+    ],
+    "robotic automation": [
+        3518,
+        10110,
+        17999,
+        9871,
+        965
+    ],
+    "automobile industry trends": [
+        10233,
+        4517,
+        7644,
+        4952,
+        13576
+    ],
+    "sports injuries": [
+        14576,
+        427,
+        2345,
+        12769,
+        5912
+    ],
+    "cloud computing": [
+        5438,
+        9849,
+        10566,
+        2709,
+        9543
+    ],
+    "deep learning applications": [
+        12608,
+        4916,
+        218,
+        2521,
+        4771
+    ],
+    "astronomy discoveries": [
+        15327,
+        348,
+        2855,
+        16023,
+        8543
+    ],
+    "philosophy of science": [
+        11435,
+        14542,
+        9198,
+        7768,
+        12810
+    ],
+    "hacking techniques": [
+        3401,
+        5793,
+        3098,
+        7038,
+        2939
+    ],
+    "music industry evolution": [
+        3348,
+        8137,
+        4271,
+        1153,
+        14518
+    ],
+    "nuclear energy": [
+        2957,
+        1464,
+        10219,
+        18763,
+        3313
+    ],
+    "modern architecture": [
+        16249,
+        2771,
+        9870,
+        3460,
+        4938
+    ],
+    "blockchain technology": [
+        16807,
+        3073,
+        8175,
+        15891,
+        11644
+    ],
+    "social media impact": [
+        17332,
+        4313,
+        18114,
+        3816,
+        4929
+    ],
+    "psychology of behavior": [
+        5889,
+        8349,
+        12872,
+        13175,
+        14019
+    ],
+    "disease prevention": [
+        796,
+        4868,
+        4860,
+        969,
+        1618
+    ],
+    "wireless networks": [
+        2067,
+        1910,
+        11318,
+        4291,
+        5362
+    ],
+    "human rights violations": [
+        3852,
+        3518,
+        18069,
+        2589,
+        11167
+    ],
+    "biotechnology innovations": [
+        3895,
+        17800,
+        5062,
+        17911,
+        5639
+    ],
+    "internet privacy": [
+        6767,
+        13961,
+        15448,
+        16430,
+        2288
+    ],
+    "geopolitical conflicts": [
+        11657,
+        255,
+        4116,
+        1079,
+        2578
+    ],
+    "video game development": [
+        17927,
+        963,
+        8124,
+        18097,
+        3432
+    ],
+    "investment strategies": [
+        17081,
+        9589,
+        4737,
+        16050,
+        7452
+    ],
+    "bioethics": [
+        6532,
+        1083,
+        14131,
+        12212,
+        330
+    ],
+    "education technology": [
+        15544,
+        11097,
+        10959,
+        6950,
+        5481
+    ],
+    "telecommunication networks": [
+        54,
+        1199,
+        6013,
+        5600,
+        1009
+    ],
+    "mental health awareness": [
+        14504,
+        17194,
+        9277,
+        3873,
+        5048
+    ],
+    "5G networks": [
+        8007,
+        12083,
+        7009,
+        8061,
+        4894
+    ],
+    "augmented reality": [
+        17319,
+        942,
+        780,
+        9407,
+        7161
+    ],
+    "pharmaceutical industry": [
+        3295,
+        9528,
+        108,
+        12304,
+        6000
+    ],
+    "scientific research methods": [
+        13647,
+        18670,
+        6652,
+        5859,
+        6557
+    ],
+    "renewable agriculture": [
+        15155,
+        16464,
+        6357,
+        13648,
+        12736
+    ],
+    "ocean conservation": [
+        18089,
+        4872,
+        7951,
+        11100,
+        4739
+    ]
+}
